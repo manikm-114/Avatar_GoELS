@@ -1,6 +1,6 @@
 # Avatar_GoELS — Evidence-grounded reliability diagnostics for structured slide understanding
 
-This repository contains the **reproducible analysis pipeline** used in our CVPR-style submission on **evidence-grounded structured extraction** from educational slides (MILU23: 23 lectures, 1,117 slides).  
+This repository contains the **reproducible analysis pipeline** used in our submission on **evidence-grounded structured extraction** from educational slides (MILU23: 23 lectures, 1,117 slides).  
 We analyze cached structured outputs (concepts + relation triples) from multiple open VLMs and evaluate reliability via **transcript/OCR grounding**, **evidence-source ablations**, **modality tag calibration**, and **secondary stability/consensus diagnostics**, complemented by a lightweight human audit.
 
 > Note: The full MILU23 slide images/transcripts and per-slide JSON outputs are not distributed here. This repo releases the **code**, **definitions**, and **paper-facing aggregate artifacts** needed to reproduce tables/figures from provided CSVs, and to rerun the pipeline on your own compatible data.
