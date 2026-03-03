@@ -1,0 +1,13 @@
+evidence_mode,model,slides_total,slides_with_transcript,slides_with_ocr,concept_total,concept_grounded,concept_ungrounded,concept_grounded_rate,triple_total,triple_valid,triple_invalid,triple_valid_rate,hallucinated_items,total_items,hallucination_penalty
+transcript_only,Qwen__Qwen3-VL-4B-Instruct,1117,1112,1102,1524,1290,234,0.846457,685,408,277,0.59562,511,2209,0.231326
+transcript_only,llava-hf__llava-onevision-qwen2-7b-ov-hf,1117,1112,1102,2813,2675,138,0.950942,256,247,9,0.964844,147,3069,0.047898
+transcript_only,OpenGVLab__InternVL3-14B,1117,1112,1102,3522,3467,55,0.984384,1193,1031,162,0.864208,217,4715,0.046023
+transcript_only,Qwen__Qwen2-VL-7B-Instruct,1117,1112,1102,2554,2384,170,0.933438,177,173,4,0.977401,174,2731,0.063713
+ocr_only,Qwen__Qwen3-VL-4B-Instruct,1117,1112,1102,1524,190,1334,0.124672,685,120,565,0.175182,1899,2209,0.859665
+ocr_only,llava-hf__llava-onevision-qwen2-7b-ov-hf,1117,1112,1102,2813,551,2262,0.195876,256,28,228,0.109375,2490,3069,0.811339
+ocr_only,OpenGVLab__InternVL3-14B,1117,1112,1102,3522,778,2744,0.220897,1193,162,1031,0.135792,3775,4715,0.800636
+ocr_only,Qwen__Qwen2-VL-7B-Instruct,1117,1112,1102,2554,578,1976,0.226312,177,38,139,0.214689,2115,2731,0.774442
+both,Qwen__Qwen3-VL-4B-Instruct,1117,1112,1102,1524,1335,189,0.875984,685,519,166,0.757664,355,2209,0.160706
+both,llava-hf__llava-onevision-qwen2-7b-ov-hf,1117,1112,1102,2813,2676,137,0.951298,256,247,9,0.964844,146,3069,0.047572
+both,OpenGVLab__InternVL3-14B,1117,1112,1102,3522,3481,41,0.988359,1193,1092,101,0.915339,142,4715,0.030117
+both,Qwen__Qwen2-VL-7B-Instruct,1117,1112,1102,2554,2425,129,0.949491,177,173,4,0.977401,133,2731,0.0487

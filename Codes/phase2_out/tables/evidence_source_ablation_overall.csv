@@ -1,0 +1,4 @@
+evidence_mode,slides_total,slides_with_transcript,slides_with_ocr,concept_total,concept_grounded,concept_ungrounded,concept_grounded_rate,triple_total,triple_valid,triple_invalid,triple_valid_rate,hallucinated_items,total_items,hallucination_penalty
+transcript_only,1117,1112,1102,10413,9816,597,0.942668,2311,1859,452,0.804414,1049,12724,0.082443
+ocr_only,1117,1112,1102,10413,2097,8316,0.201383,2311,348,1963,0.150584,10279,12724,0.807843
+both,1117,1112,1102,10413,9917,496,0.952367,2311,2031,280,0.87884,776,12724,0.060987

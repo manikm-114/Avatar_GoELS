@@ -1,0 +1,5 @@
+model,concept_total,concept_transcript,concept_ocr,concept_neither,concept_transcript_rate,concept_ocr_rate,concept_neither_rate,triple_total,triple_valid,triple_valid_rate,triple_invalid
+Qwen__Qwen3-VL-4B-Instruct,1524,1290,45,189,0.846457,0.029528,0.124016,685,519,0.757664,166
+llava-hf__llava-onevision-qwen2-7b-ov-hf,2813,2675,1,137,0.950942,0.000355,0.048702,256,247,0.964844,9
+OpenGVLab__InternVL3-14B,3522,3467,14,41,0.984384,0.003975,0.011641,1193,1092,0.915339,101
+Qwen__Qwen2-VL-7B-Instruct,2554,2384,41,129,0.933438,0.016053,0.050509,177,173,0.977401,4

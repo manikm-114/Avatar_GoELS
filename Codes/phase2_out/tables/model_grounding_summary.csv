@@ -1,0 +1,5 @@
+model,concept_total,concept_transcript,concept_ocr,concept_neither,triple_total,triple_valid,hallucinated_items,total_items,hallucination_penalty
+Qwen__Qwen3-VL-4B-Instruct,1524,1290,45,189,685,519,355,2209,0.160706
+llava-hf__llava-onevision-qwen2-7b-ov-hf,2813,2675,1,137,256,247,146,3069,0.047572
+OpenGVLab__InternVL3-14B,3522,3467,14,41,1193,1092,142,4715,0.030117
+Qwen__Qwen2-VL-7B-Instruct,2554,2384,41,129,177,173,133,2731,0.0487

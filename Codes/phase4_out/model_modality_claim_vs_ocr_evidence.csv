@@ -1,0 +1,5 @@
+model,model_short,triples_total,img_claim_n,img_claim_rate,ocr_evidenced_n,ocr_evidenced_rate,hallucinated_img_claim_n,hallucinated_img_claim_rate
+OpenGVLab__InternVL3-14B,InternVL3-14B,1193,56,0.04694048616932104,66,0.055322715842414084,2,0.03571428571428571
+Qwen__Qwen2-VL-7B-Instruct,Qwen2-VL-7B,177,85,0.480225988700565,1,0.005649717514124294,2,0.023529411764705882
+Qwen__Qwen3-VL-4B-Instruct,Qwen3-VL-4B,685,488,0.7124087591240876,131,0.19124087591240876,128,0.26229508196721313
+llava-hf__llava-onevision-qwen2-7b-ov-hf,LLaVA-OneVision,256,29,0.11328125,0,0.0,3,0.10344827586206896

@@ -1,0 +1,6 @@
+model,slides_seen,slides_with_text,slides_with_concepts,slides_with_triples,concept_terms_total,concept_terms_not_in_text,concept_verbatim_ok_rate,triples_total,triples_with_image_modality,triple_image_modality_rate,triples_s_not_in_text,triples_o_not_in_text
+llava-hf__llava-onevision-qwen2-7b-ov-hf,1117,1112,1063,253,2813,138,0.9509,256,29,0.1133,6,6
+llava-hf__llava-onevision-qwen2-7b-ov-hf__text_only,1112,1112,0,0,0,0,1.0,0,0,0.0,0,0
+OpenGVLab__InternVL3-14B,1117,1112,896,828,3522,54,0.9847,1193,56,0.0469,66,128
+Qwen__Qwen2-VL-7B-Instruct,1117,1112,1088,177,2554,169,0.9338,177,85,0.4802,3,4
+Qwen__Qwen3-VL-4B-Instruct,1117,1112,1085,625,1524,238,0.8438,685,488,0.7124,165,204

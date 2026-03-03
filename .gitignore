@@ -1,0 +1,20 @@
+# ===== Do not publish large/derived/copyrighted content =====
+Codes/phase2_out/ocr_cache/
+Codes/phase5_out/audit_images/
+
+# Human study / private artifacts
+Codes/phase5_out/audit_packets_*.json
+Codes/phase5_out/audit_responses.csv
+Codes/phase5_out/audit_form*.html
+Codes/phase5_out/audit_slides*.csv
+
+# Large intermediate tables (regenerate locally)
+Codes/phase1_out/
+Codes/phase2_out/tables/concept_grounding.csv
+Codes/phase2_out/tables/triple_entity_grounding.csv
+
+# OS / temp
+.DS_Store
+Thumbs.db
+*.tmp
+*.log

@@ -1,0 +1,501 @@
+lecture,slide_id,model,type,term_or_entity
+Lecture 1,Slide1,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,office hours
+Lecture 1,Slide10,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,resolution
+Lecture 1,Slide11,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,you see the outcome-the measurement-and you ask: what could have caused this?
+Lecture 1,Slide12,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=convolution | p=produces | o=blurred image | conf=0.9
+Lecture 1,Slide13,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=convolution | p=represents | o=modeling how a spatially-invariant linear system modifies a signal or an image | conf=1.0
+Lecture 1,Slide15,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Medicine
+Lecture 1,Slide19,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,"academic, professionally, and personally"
+Lecture 1,Slide19,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,frequency_domain
+Lecture 1,Slide2,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,DQE
+Lecture 1,Slide2,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=CT Reconstruction | p=reconstructs_with | o=MATLAB | conf=0.9
+Lecture 1,Slide25,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,MRF
+Lecture 1,Slide25,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=General Electric | p=annual revenue | o=$150 billion | conf=1.0
+Lecture 1,Slide3,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=course | p=uses | o=Books | conf=1.0
+Lecture 1,Slide30,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,"s=Imaging Program at RPI | p=integrates | o=theoretical, technical & biomedical aspects | conf=1.0"
+Lecture 1,Slide30,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,reconstruction
+Lecture 1,Slide30,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=Pingkun Yan, PhD | p=represents | o=Professor | conf=0.95"
+Lecture 1,Slide31,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,growing in both scope and impact
+Lecture 1,Slide33,OpenGVLab__InternVL3-14B,concept_term_not_in_text,Optical Imaging I
+Lecture 1,Slide33,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,MRI II
+Lecture 1,Slide33,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Ultrasound II
+Lecture 1,Slide36,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,corrections
+Lecture 1,Slide36,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Textbook | p=uses | o=Available in PDF | conf=0.9
+Lecture 1,Slide37,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=p(t,θ) | p=produces | o=F(u,v) = F(ρ,θ) | conf=0.95"
+Lecture 1,Slide38,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,anatomical structures
+Lecture 1,Slide38,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,reconstruction
+Lecture 1,Slide38,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=Positron Emission Tomography | p=produces | o=detailed, functional images of the body's processes | conf=0.9"
+Lecture 1,Slide39,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Single Photon Emission CT | p=measures | o=single gamma ray photons | conf=0.95
+Lecture 1,Slide40,OpenGVLab__InternVL3-14B,concept_term_not_in_text,functional imaging
+Lecture 1,Slide41,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=ultrasound imaging | p=reconstructs_with | o=data from reflected waves | conf=0.9
+Lecture 1,Slide42,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,bioluminescence imaging
+Lecture 1,Slide48,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,AI-empowered AI-empowered deep learning
+Lecture 1,Slide6,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,SPECT
+Lecture 1,Slide6,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,medical imaging
+Lecture 1,Slide7,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,isolating structures
+Lecture 1,Slide7,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,reconstruct a full 3d view of what's inside
+Lecture 1,Slide7,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=X-ray radiography | p=produces | o=images | conf=0.9
+Lecture 10,Slide11,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=impedance | p=represents | o=resistor, capacitor, and inductor | conf=0.95"
+Lecture 10,Slide13,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=the first node | p=represents | o=resistor R 1, resistor R 2, resistor R 3, and the voltage source | conf=0.95"
+Lecture 10,Slide14,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"You might notice that other closed paths exist - for example, one that goes all the way around the outside - but these can be derived from combinations of the independent loops. They don't give us any new information."
+Lecture 10,Slide16,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"when we combine kvl with kirchhoff's current law, we can write enough equations to solve for all the unknown currents and voltages in even a complex electrical network"
+Lecture 10,Slide18,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Electrical Engineering
+Lecture 10,Slide19,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Voltage leads current
+Lecture 10,Slide19,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,R ∠0°
+Lecture 10,Slide2,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Ultrasound I
+Lecture 10,Slide20,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Impedance cancellation
+Lecture 10,Slide20,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"parallel connection - the two elements share the same two nodes: The voltage across each is the same, and the currents add."
+Lecture 10,Slide21,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"The fraction of the input voltage that appears across the capacitor is given by the transfer function: ""Capital T of omega equals one divided by j omega C, all over R plus one divided by j omega C."""
+Lecture 10,Slide24,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,amplification
+Lecture 10,Slide25,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,saturation
+Lecture 10,Slide25,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Null mode | p=produces | o=zero output voltage V_out | conf=1.0
+Lecture 10,Slide25,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,large magnification/gain
+Lecture 10,Slide26,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=NPN bipolar junction transistor | p=produces | o=amplified signals | conf=1.0
+Lecture 10,Slide26,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"digital logic gates - OR, AND, XOR, NOR, NAND, and NOT"
+Lecture 10,Slide29,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=op amp | p=represents | o=two input terminals at the same voltage | conf=1.0
+Lecture 10,Slide32,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"When you connect these components into a network, Kirchhoff's Voltage Law and Kirchhoff's Current Law give you enough equations to solve for all unknowns."
+Lecture 10,Slide34,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,future impact on fields such as science and healthcare
+Lecture 10,Slide36,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,adaptation
+Lecture 10,Slide36,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Neural Integration
+Lecture 10,Slide38,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Biological Neuron | p=uses | o=Fiber (Axon) | conf=0.95
+Lecture 10,Slide39,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,"resistors, capacitors, inductors"
+Lecture 10,Slide41,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,sparse ae
+Lecture 10,Slide42,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Amplitude/Phase
+Lecture 10,Slide42,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Amplitude/Phase (Complex Analysis)
+Lecture 10,Slide42,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Shortcut/Feedback | p=represents | o=Control Theory | conf=0.95
+Lecture 10,Slide43,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,accuracy
+Lecture 10,Slide43,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Convergence
+Lecture 10,Slide45,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"Over time, with each update, the loss gets smaller and smaller until the network converges to a good solution - ideally, a point where further changes no longer improve the performance."
+Lecture 10,Slide46,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,classifies almost all points correctly
+Lecture 10,Slide47,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,train neural networks on large datasets
+Lecture 10,Slide48,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,network or data transfer
+Lecture 10,Slide49,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"if you eventually want to publish your work, you either need to get formal permission to use those copyrighted figures or you should redraw them in your own style so they're fully original"
+Lecture 10,Slide5,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,proportionality
+Lecture 10,Slide50,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=sensitivity | p=measures | o=change in V_out | conf=1.0
+Lecture 10,Slide50,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,equal resistances
+Lecture 10,Slide6,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,"s=current i | p=equals | o=one over L times the integral of v with respect to time, plus the initial current | conf=1.0"
+Lecture 10,Slide6,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Understanding their V-I relationships is essential before moving on to phasors
+Lecture 10,Slide6,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"these three components - resistor, capacitor, and inductor - are the building blocks of classic electrical circuits."
+Lecture 10,Slide7,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,spectrum
+Lecture 11,Slide1,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,diagnostic imaging
+Lecture 11,Slide10,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"KL divergence, mutual information, and entropy are very powerful, but they are more advanced than what we need right now"
+Lecture 11,Slide11,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,image structure preservation
+Lecture 11,Slide12,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=HVS | p=uses | o=Top-down | conf=1.0
+Lecture 11,Slide14,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,image quality
+Lecture 11,Slide14,Qwen__Qwen2-VL-7B-Instruct,triple_entity_not_in_text,s=Structural Similarity Index (SSIM) | p=measures | o=image quality | conf=1.0
+Lecture 11,Slide14,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=SSIM=0.949 | p=measures | o=the image next to the reference image | conf=0.95
+Lecture 11,Slide15,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Structural Similarity Index | p=produces | o=Similarity Measure | conf=1.0
+Lecture 11,Slide16,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=σₓ | p=measures | o=standard deviation of X | conf=0.95
+Lecture 11,Slide17,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=boundedness | p=represents | o=S(x, y) ≤ 1 | conf=0.95"
+Lecture 11,Slide18,OpenGVLab__InternVL3-14B,concept_term_not_in_text,quality_metric
+Lecture 11,Slide18,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=luminance comparison | p=produces | o=value between 0 and 1 | conf=0.95
+Lecture 11,Slide2,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Deep Imaging
+Lecture 11,Slide20,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=contrast comparison function | p=uses | o=standard deviation of pixel values | conf=0.95
+Lecture 11,Slide21,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=contrast term in SSIM | p=captures | o=relative differences | conf=1.0
+Lecture 11,Slide26,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,ai_ml
+Lecture 11,Slide28,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=System Specific | p=measures | o=SNR | conf=1.0
+Lecture 11,Slide28,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=system-specific measures | p=measures | o=Resolution (Spatial, Contrast, Temporal, Spectral) | conf=0.95"
+Lecture 11,Slide29,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Signal-to-Noise Ratio (SNR) | p=measures | o=how strong the signal is relative to the noise | conf=1.0
+Lecture 11,Slide29,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,SNR is defined as the ratio of signal power to noise power.
+Lecture 11,Slide29,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Signal to Noise Ratio (SNR) | p=represents | o=how strong the signal is relative to the noise | conf=0.95
+Lecture 11,Slide32,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,50 mAs
+Lecture 11,Slide37,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Specificity | p=measures | o=likelihood of a negative case | conf=1.0
+Lecture 11,Slide37,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,High specificity ensures we don't overwhelm patients with unnecessary worry or treatment
+Lecture 11,Slide37,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Specificity =TN/(TN+FP) | p=measures | o=likelihood of a negative case | conf=0.95
+Lecture 11,Slide4,OpenGVLab__InternVL3-14B,concept_term_not_in_text,AUC
+Lecture 11,Slide4,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,"s=System Specific | p=measures | o=Resolution (Spatial, Contrast, Temporal, Spectral) | conf=1.0"
+Lecture 11,Slide4,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Neural Network/Radiomics
+Lecture 11,Slide4,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Sensitivity & Specificity
+Lecture 11,Slide40,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,An AUC of 0.5 - a diagonal line - means the test is no better than random guessing
+Lecture 11,Slide40,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=ROC curve | p=produces | o=area under the ROC curve (AUC) | conf=0.95
+Lecture 11,Slide41,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,sensitivity vs. specificity
+Lecture 11,Slide41,llava-hf__llava-onevision-qwen2-7b-ov-hf,triple_entity_not_in_text,s=<diagnostic test> | p=measures | o=<ROC curve> | conf=0.0
+Lecture 11,Slide43,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Some healthy patients will fall above the threshold and be misclassified as diseased - these are false positives.
+Lecture 11,Slide44,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=conservative threshold | p=produces | o=high specificity | conf=0.9
+Lecture 11,Slide44,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,non-diseased
+Lecture 11,Slide45,llava-hf__llava-onevision-qwen2-7b-ov-hf,triple_entity_not_in_text,s=<threshold> | p=moves | o=<decision boundary> | conf=0.0
+Lecture 11,Slide46,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,false negative fraction
+Lecture 11,Slide46,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,balance between catching true positives and avoiding false alarms
+Lecture 11,Slide47,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,diagnostic test
+Lecture 11,Slide47,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,"Central tool in medical imaging, machine learning, and clinical decision-making"
+Lecture 11,Slide48,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=diagnostic performance | p=depends_on | o=reader's skill | conf=0.9
+Lecture 11,Slide49,Qwen__Qwen2-VL-7B-Instruct,triple_entity_not_in_text,s=Area under ROC Curve (AUC) | p=measures | o=Area under ROC Curve (AUC) | conf=1.0
+Lecture 11,Slide49,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Area under ROC Curve (AUC) | p=represents | o=trade-offs between sensitivity and specificity | conf=0.9
+Lecture 11,Slide5,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,MSE(theta) = E[(theta - theta)^2]
+Lecture 11,Slide54,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,"s=second hypothesis | p=represents | o=image contains both the background and an additional signal, again with noise added | conf=1.0"
+Lecture 11,Slide54,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,clean signal image
+Lecture 11,Slide54,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=binary classification task | p=represents | o=background-only case or background-plus-signal case | conf=0.9
+Lecture 11,Slide55,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,modality
+Lecture 11,Slide55,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,This simple but powerful rule - often called the likelihood ratio test - provides an upper bound on performance
+Lecture 11,Slide56,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Hotelling Observer | p=produces | o=test statistic t | conf=0.95
+Lecture 11,Slide57,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=channelized observer | p=produces | o=channelized data vector v | conf=0.95
+Lecture 11,Slide58,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,capture detail
+Lecture 11,Slide58,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Four square frequency-domain channels | p=uses | o=band-pass filters in the frequency domain | conf=0.8
+Lecture 11,Slide59,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,bridging imaging with data science
+Lecture 11,Slide59,OpenGVLab__InternVL3-14B,concept_term_not_in_text,regression
+Lecture 11,Slide59,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Memorial Sloan Kettering Cancer Center
+Lecture 11,Slide59,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Feature selection
+Lecture 11,Slide63,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Deep radiomics represents the cutting edge-combining the statistical rigor of radiomics with the power of deep learning to capture complex image biomarkers.
+Lecture 11,Slide64,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,medical image quality
+Lecture 11,Slide64,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Compute sensitivity and specificity | p=measures | o=sensitivity and specificity | conf=0.95
+Lecture 11,Slide8,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Kullback-Leibler Distance | p=measures | o=information divergence | conf=0.95
+Lecture 12,Slide12,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,"brain, liver, tumors"
+Lecture 12,Slide12,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Medical X-rays | p=measures | o=poor contrast in soft tissue | conf=1.0
+Lecture 12,Slide12,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,"Global X-ray Market: $7.3 billion in 2011, $9.1 billion in 2017"
+Lecture 12,Slide12,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Global X-ray Market:
+Lecture 12,Slide14,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,DQE
+Lecture 12,Slide15,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,photon-counting
+Lecture 12,Slide16,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,heat distribution
+Lecture 12,Slide16,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Stator electromagnets
+Lecture 12,Slide16,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=electron beam | p=accelerates | o=toward tungsten anode | conf=0.95
+Lecture 12,Slide17,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Characteristic (Photoelectric) | p=produces | o=Characteristic X-ray Emission | conf=0.95
+Lecture 12,Slide18,OpenGVLab__InternVL3-14B,concept_term_not_in_text,maximum photon energy
+Lecture 12,Slide18,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,vacuum
+Lecture 12,Slide19,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,patient distance
+Lecture 12,Slide19,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=effective focal spot size | p=depends_on | o=actual size and angle theta | conf=0.9
+Lecture 12,Slide19,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,f = F sin(theta)
+Lecture 12,Slide19,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,f = F sin θ
+Lecture 12,Slide19,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=coverage | p=depends_on | o=source-to-patient distance | conf=0.9
+Lecture 12,Slide20,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,X-ray technology advancement
+Lecture 12,Slide21,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=X-ray attenuation | p=depends_on | o=X-ray Source | conf=0.8
+Lecture 12,Slide22,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,"s=X-rays | p=interacts with | o=molecules, atoms, or inner electrons | conf=1.0"
+Lecture 12,Slide22,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Scatter radiation
+Lecture 12,Slide22,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=X-ray photons | p=uses | o=Primary Beam | conf=0.9
+Lecture 12,Slide24,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Photoelectric effect | p=represents | o=dominant interaction for medical X-rays at low energies | conf=0.9
+Lecture 12,Slide25,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,radiation dose
+Lecture 12,Slide26,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"suppose you start with 1,000 x-ray photons. After passing through the first half-value layer, about half remain - 500 photons. After a second half-value layer of the same thickness, the number drops to about 250. After a few layers, only a small fraction of the original photons survive"
+Lecture 12,Slide29,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,soft tissue imaging
+Lecture 12,Slide29,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,μ = 1 per centimeter
+Lecture 12,Slide3,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,reconstruction
+Lecture 12,Slide3,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=X-ray imaging | p=uses | o=X-ray detector | conf=1.0
+Lecture 12,Slide3,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=X-ray imaging | p=depends_on | o=X-ray Attenuation | conf=0.9
+Lecture 12,Slide30,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Polychromatic Model | p=depends_on | o=integration over the entire energy spectrum | conf=0.9
+Lecture 12,Slide30,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Polychromatic Model | p=represents | o=integration over energy spectrum | conf=0.95
+Lecture 12,Slide31,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=gold | p=has | o=K-edge at about 80.7 keV | conf=1.0
+Lecture 12,Slide31,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=K-edge | p=produces | o=sharp jump in attenuation curve | conf=0.9
+Lecture 12,Slide32,llava-hf__llava-onevision-qwen2-7b-ov-hf,triple_entity_not_in_text,s=gadolinium | p=uses|via|represents|depends_on|measures|produces|reconstructs_with | o=MRI contrast agent | conf=0.0
+Lecture 12,Slide32,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=gadolinium | p=has | o=sharp jump in attenuation around 50 keV | conf=1.0
+Lecture 12,Slide34,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Indirect AMFPI | p=produces | o=visible light | conf=0.9
+Lecture 12,Slide35,OpenGVLab__InternVL3-14B,concept_term_not_in_text,primary beam efficiency
+Lecture 12,Slide38,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,"carbon, oxygen, hydrogen"
+Lecture 12,Slide38,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=X-rays interaction with matter | p=depends_on | o=mass number | conf=1.0
+Lecture 12,Slide39,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Klein-Nishina function | p=describes | o=how photons scatter off electrons | conf=1.0
+Lecture 12,Slide40,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=dual-energy measurement | p=measures | o=line integrals A1 and A2 | conf=0.95
+Lecture 12,Slide41,OpenGVLab__InternVL3-14B,concept_term_not_in_text,spectral imaging
+Lecture 12,Slide42,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=photon-counting detector | p=measures | o=energy band of X-ray photon | conf=0.95
+Lecture 12,Slide46,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"cones can distinguish between red, green, and blue"
+Lecture 12,Slide48,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=hybrid spectral micro-CT system | p=produces | o=better spatial resolution | conf=0.9
+Lecture 12,Slide7,OpenGVLab__InternVL3-14B,concept_term_not_in_text,attenuation
+Lecture 12,Slide7,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=medical CT | p=uses | o=hard X-rays | conf=0.9
+Lecture 12,Slide8,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,backprojection
+Lecture 12,Slide8,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,"s=radiography | p=measures | o=broken bone, foreign object | conf=1.0"
+Lecture 12,Slide8,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=X-ray Radiography | p=represents | o=everything superimposed: the heart, the lungs, the ribs - all layered on top of each other in the same image | conf=0.9"
+Lecture 13,Slide10,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,reconstruction
+Lecture 13,Slide10,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=each x-ray path | p=measures | o=unique information | conf=0.9
+Lecture 13,Slide12,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=f(x,y) | p=produces | o=p(θ,t) | conf=0.95"
+Lecture 13,Slide13,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Reconstruction
+Lecture 13,Slide15,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,convergence
+Lecture 13,Slide16,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,satisfactory outcome
+Lecture 13,Slide16,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Regularize the image reconstruction with various prior knowledge | p=uses | o=various prior knowledge | conf=0.9
+Lecture 13,Slide18,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,modality
+Lecture 13,Slide18,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"for any horizontal wave, for all X-ray projections along oblique directions-that is, any orientation that is not vertical-we can say one thing: if you do the vertical line integral, the wave has a positive cycle and a negative cycle that cancel out"
+Lecture 13,Slide18,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=projection at ninety degrees plus one degree | p=depends_on | o=wave at one-degree orientation | conf=0.9
+Lecture 13,Slide19,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=F(u, v) = F(ρ, θ) | p=represents | o=the Fourier spectrum of the projection profile | conf=0.9"
+Lecture 13,Slide21,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Fourier slice theorem
+Lecture 13,Slide22,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=F(u, 0) | p=represents | o=the one-dimensional Fourier transform of the projection P_{θ=0} | conf=0.95"
+Lecture 13,Slide23,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,image reconstruction
+Lecture 13,Slide24,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,"x, y coordinates"
+Lecture 13,Slide27,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,small angle dθ
+Lecture 13,Slide30,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=H(w) | p=uses | o=the inverse Fourier transform | conf=0.9
+Lecture 13,Slide34,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Analytic Approach | p=uses | o=filtering/processing steps | conf=0.9
+Lecture 13,Slide39,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=P'(θ,t) | p=produces | o=a high-pass-filtered projection profile | conf=0.9"
+Lecture 13,Slide4,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Clinical Images
+Lecture 13,Slide4,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Clinical Images
+Lecture 13,Slide41,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,The next few slides show a MATLAB implementation-also your homework-so you can read through and try it yourself
+Lecture 13,Slide46,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,colorbar
+Lecture 14,Slide11,OpenGVLab__InternVL3-14B,concept_term_not_in_text,Fourier domain sampling patterns
+Lecture 14,Slide11,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Fifth generation | p=uses | o=scanning electron beam | conf=1.0
+Lecture 14,Slide11,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,scanning electron beam
+Lecture 14,Slide14,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,motion blur along the Z-axis
+Lecture 14,Slide20,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Cone-beam reconstruction using the backprojection of locally filtered projections
+Lecture 14,Slide23,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=interior tomography | p=reconstructs_with | o=landmark-based | conf=1.0
+Lecture 14,Slide23,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Algorithm
+Lecture 14,Slide23,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,contrast agents-like iodine injected during CT angiography-change blood density
+Lecture 14,Slide25,llava-hf__llava-onevision-qwen2-7b-ov-hf,triple_entity_not_in_text,s=classical CT | p=uses|via|represents|depends_on|measures|produces|reconstructs_with | o=global image | conf=0.0
+Lecture 14,Slide26,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=interior tomography | p=produces | o=finer image resolution | conf=1.0
+Lecture 14,Slide28,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=GANTRY | p=represents | o=PATIENT BED | conf=0.8
+Lecture 14,Slide3,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=CT Image Artifacts | p=degrades | o=Image Quality | conf=0.9
+Lecture 14,Slide30,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=In-vivo Spectral Micro-CT | p=enabled with | o=Parallel Localized Data Acquisition | conf=1.0
+Lecture 14,Slide32,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Wire and Detector Element Limits
+Lecture 14,Slide32,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=960 Views | p=produces | o=good image quality | conf=0.9
+Lecture 14,Slide34,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=bone window | p=uses | o=C/W 1000, 2500 | conf=0.9"
+Lecture 14,Slide35,OpenGVLab__InternVL3-14B,concept_term_not_in_text,Magic ring scanner
+Lecture 14,Slide35,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,magic ring scanner
+Lecture 14,Slide36,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Image Noise | p=depends_on | o=HVL for Water 3.6 cm | conf=1.0
+Lecture 14,Slide36,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Algorithm
+Lecture 14,Slide36,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Image Noise | p=depends_on | o=mAs Product | conf=0.9
+Lecture 14,Slide37,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Low-contrast Resolution | p=depends_on | o=System MTF | conf=0.9
+Lecture 14,Slide38,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Conventional Scanning | p=produces | o=Through-plane motion artifacts | conf=0.8
+Lecture 14,Slide42,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,fidelity
+Lecture 14,Slide42,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Volume averaging | p=produces | o=Deblurred | conf=0.9
+Lecture 14,Slide44,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,smart computational algorithms that predict motion and correct for it during reconstruction.
+Lecture 14,Slide44,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Iterative Reconstruction with Known Motion Pattern | p=reconstructs_with | o=accurate images | conf=0.95
+Lecture 14,Slide45,OpenGVLab__InternVL3-14B,concept_term_not_in_text,low-dose CT
+Lecture 14,Slide46,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=The effective dose equivalent | p=represents | o=the dose delivered to each organ weighted by the radiation sensitivity w of that organ | conf=0.95
+Lecture 14,Slide47,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,CTDIs
+Lecture 14,Slide47,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=effective dose equivalent | p=represents | o=patient risk | conf=0.9
+Lecture 14,Slide48,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Toronto | p=measures | o=lower natural background radiation | conf=1.0
+Lecture 14,Slide52,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=CTDI | p=represents | o=local dose | conf=0.8
+Lecture 14,Slide54,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=MSAD | p=depends_on | o=inter-slice distance | conf=0.8
+Lecture 14,Slide56,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,peripheral dose
+Lecture 14,Slide56,OpenGVLab__InternVL3-14B,concept_term_not_in_text,peripheral dose
+Lecture 14,Slide56,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=MSAD | p=depends_on | o=Slice Thickness | conf=1.0
+Lecture 14,Slide56,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Significantly Less at the Iso-center than Near Surface for Body
+Lecture 14,Slide56,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=MSAD | p=depends_on | o=kVp | conf=0.9
+Lecture 14,Slide6,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Resultant data | p=are transformed to | o=the Fourier space | conf=0.98
+Lecture 14,Slide8,OpenGVLab__InternVL3-14B,concept_term_not_in_text,X-ray source rotation
+Lecture 14,Slide8,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=partial fan beam (1972) | p=measures | o=multiple parallel beam projections per translation | conf=0.8
+Lecture 14,Slide9,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Stationary object assumption
+Lecture 14,Slide9,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=electron beam CT | p=produces | o=X-ray beam | conf=0.95
+Lecture 15,Slide1,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=GE's ""Revolution CT"" | p=produces | o=high-resolution images of the human body | conf=0.9"
+Lecture 15,Slide10,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Filtration (Ramp filter) | p=is required in the sinogram space | o=to fix the blurring | conf=0.95
+Lecture 15,Slide12,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,We'll first apply parallel-beam tools and then switch to fan-beam tools
+Lecture 15,Slide13,OpenGVLab__InternVL3-14B,concept_term_not_in_text,backprojection
+Lecture 15,Slide14,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=MATLAB's radon function | p=depends_on | o=rotation angles | conf=1.0
+Lecture 15,Slide14,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,R is the result-it contains the projection values
+Lecture 15,Slide14,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=radon(I, theta) | p=uses | o=I | conf=0.95"
+Lecture 15,Slide15,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,the Shepp-Logan phantom
+Lecture 15,Slide16,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=coarser sinogram | p=reconstructs_with | o=lower resolution | conf=1.0
+Lecture 15,Slide19,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Line 35 | p=implements | o=filtered BP | conf=1.0
+Lecture 15,Slide19,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,image quality
+Lecture 15,Slide19,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,filtered backprojected image
+Lecture 15,Slide19,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=filtered backprojected image | p=reconstructs_with | o=filtered BP | conf=0.9
+Lecture 15,Slide2,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Deep Imaging
+Lecture 15,Slide20,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,image_quality
+Lecture 15,Slide23,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,scanner geometry
+Lecture 15,Slide23,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=fanbeam function | p=uses | o=distance to object (D) | conf=1.0
+Lecture 15,Slide23,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"FanSensorSpacing, dsensor1 are optional"
+Lecture 15,Slide23,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=fanbeam | p=uses | o=distance to object | conf=0.95
+Lecture 15,Slide24,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=ifanbeam | p=reconstructs_with | o=inverse Radon transform | conf=1.0
+Lecture 15,Slide25,OpenGVLab__InternVL3-14B,concept_term_not_in_text,Dsensor
+Lecture 15,Slide25,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Dsensor (Line 26) | p=is set to | o=1 | conf=1.0
+Lecture 15,Slide25,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,p_type (Line 5)
+Lecture 15,Slide25,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Dsensor (Line 26) | p=measures | o=spacing between detector elements | conf=0.9
+Lecture 15,Slide26,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,FBP reconstruction
+Lecture 15,Slide26,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Dsensor: 1 | p=produces | o=decent reconstruction | conf=0.9
+Lecture 15,Slide29,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Dr. Wang's group
+Lecture 15,Slide5,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,Radon transform in clinical practice
+Lecture 15,Slide5,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=CT Process | p=uses | o=Radon Transform | conf=1.0
+Lecture 15,Slide7,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,bridge between raw projection data and reconstructed CT image
+Lecture 15,Slide8,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,applying the inverse two-dimensional Fourier transform to reconstruct the original image
+Lecture 15,Slide9,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,accurate reconstruction
+Lecture 16,Slide10,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,biological structures
+Lecture 16,Slide10,OpenGVLab__InternVL3-14B,concept_term_not_in_text,internal source
+Lecture 16,Slide10,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=PET scan | p=uses | o=internal sources | conf=1.0
+Lecture 16,Slide10,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Low vs High Sensitivity
+Lecture 16,Slide10,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Low vs high sensitivity
+Lecture 16,Slide11,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,tri-modality scanner
+Lecture 16,Slide11,OpenGVLab__InternVL3-14B,concept_term_not_in_text,tri-modality scanner
+Lecture 16,Slide11,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=nuclear imaging | p=produces | o=highly sensitive biochemical information | conf=0.95
+Lecture 16,Slide13,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=helium | p=has | o=atomic number of 2 | conf=1.0
+Lecture 16,Slide13,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"this number tells us the number of protons. if the atom is neutral, it should match the number of electrons"
+Lecture 16,Slide14,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Half-life
+Lecture 16,Slide15,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,gamma ray generation
+Lecture 16,Slide16,Qwen__Qwen2-VL-7B-Instruct,triple_entity_not_in_text,s=gamma decay | p=uses|via|represents|depends_on|measures|produces|reconstructs_with | o=gamma (γ) | conf=0.0
+Lecture 16,Slide17,OpenGVLab__InternVL3-14B,concept_term_not_in_text,localized radiation
+Lecture 16,Slide17,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,cancer treatment
+Lecture 16,Slide18,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,PET relies on beta-plus decay and positron annihilation
+Lecture 16,Slide18,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,PET relies on beta-plus decay and positron annihilation
+Lecture 16,Slide19,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=positron emission | p=produces | o=two anti-parallel 511 keV photons | conf=0.95
+Lecture 16,Slide2,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Deep Imaging
+Lecture 16,Slide21,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=99mTc | p=uses | o=gamma-ray emission | conf=0.95
+Lecture 16,Slide22,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,photons - either X-rays or gamma rays - along with other possible emissions
+Lecture 16,Slide26,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,effective half-life formula
+Lecture 16,Slide26,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=N | p=depends_on | o=λ | conf=0.95
+Lecture 16,Slide28,OpenGVLab__InternVL3-14B,concept_term_not_in_text,99Mo
+Lecture 16,Slide29,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,specialized reactor facilities
+Lecture 16,Slide3,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Tracer Production | p=represents | o=Devices | conf=1.0
+Lecture 16,Slide3,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Coincidence Detection
+Lecture 16,Slide3,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Coincidence Detection
+Lecture 16,Slide30,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,medical imaging
+Lecture 16,Slide30,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=nuclear fission | p=produces | o=a huge amount of energy | conf=0.95
+Lecture 16,Slide35,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,"s=the third equation | p=describes | o=granddaughter, technetium-99 | conf=1.0"
+Lecture 16,Slide35,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,solve these equations
+Lecture 16,Slide36,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,exponential decay
+Lecture 16,Slide36,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=the daily yield | p=represents | o=the radioactivity of 99mTc in the technetium generator | conf=0.85
+Lecture 16,Slide37,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=99mTc-glucoheptonate | p=uses | o=Brain tumors | conf=1.0
+Lecture 16,Slide37,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=99mTc-diphosphonate | p=uses | o=skeletal imaging | conf=0.95
+Lecture 16,Slide38,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,image quality
+Lecture 16,Slide39,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,light pipe
+Lecture 16,Slide39,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,radiopharmaceutical
+Lecture 16,Slide4,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=marie curie | p=represents | o=the discovery of radioactivity | conf=0.9
+Lecture 16,Slide41,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=A diverging collimator | p=produces | o=an image smaller than the object | conf=0.95
+Lecture 16,Slide45,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Anger network | p=represents | o=position estimate in the x direction | conf=0.9
+Lecture 16,Slide46,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,synchronization
+Lecture 16,Slide46,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,light to electric signal
+Lecture 16,Slide47,OpenGVLab__InternVL3-14B,concept_term_not_in_text,scintillation crystal
+Lecture 16,Slide47,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=pulse height analyzer | p=represents | o=range of values accepted | conf=0.9
+Lecture 16,Slide48,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,square of the sum
+Lecture 16,Slide48,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=The intrinsic spatial resolution of the gamma camera | p=depends_on | o=the intrinsic resolution of the Anger position encoder | conf=0.9
+Lecture 16,Slide50,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,injection activity
+Lecture 16,Slide50,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=dead time | p=measures | o=the time between two detected events | conf=0.9
+Lecture 16,Slide51,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,FDG uptake
+Lecture 16,Slide51,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=positron emission tomography (pet) | p=uses | o=fluorodeoxyglucose (fdg) | conf=0.98
+Lecture 16,Slide52,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Coinc. | p=recognizes | o=them as a pair | conf=0.8
+Lecture 16,Slide53,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,reconstruction of image
+Lecture 16,Slide55,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,parent-daughter decay equations
+Lecture 16,Slide6,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=spectral molecular CT | p=uses | o=photon-counting detector | conf=0.95
+Lecture 16,Slide7,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"we use a collimator - such as a pinhole collimator or a parallel-hole collimator. The collimator ensures that only photons traveling along certain directions are recorded, giving us the directional information we need for tomographic imaging."
+Lecture 16,Slide7,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=gamma camera | p=uses | o=collimator | conf=0.9
+Lecture 16,Slide8,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,nuclear imaging is highly complementary to X-ray imaging
+Lecture 16,Slide8,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=gamma camera | p=uses | o=parallel-hole collimator | conf=0.9
+Lecture 16,Slide9,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=unstable isotope as tracer molecule (radionuclide) | p=participates in | o=normal metabolic processes | conf=1.0
+Lecture 16,Slide9,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Unstable Isotope as Tracer Molecule (Radionuclide) | p=administered | o=Intravenously or Orally | conf=0.95
+Lecture 17,Slide10,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Conference & Community
+Lecture 17,Slide11,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,modality
+Lecture 17,Slide11,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=E 99mTc | p=produces | o=140keV | conf=0.95
+Lecture 17,Slide13,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,image reconstruction
+Lecture 17,Slide13,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,image reconstruction
+Lecture 17,Slide13,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=The SPECT data model | p=depends_on | o=source-position-dependent weighting factors | conf=0.95
+Lecture 17,Slide14,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,sort by angle
+Lecture 17,Slide15,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Mechanical collimators | p=represents | o=separating detector ring & defining imaging planes | conf=1.0
+Lecture 17,Slide19,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=A Fourier reconstruction algorithm with constant attenuation compensation using 180° acquisition data for SPECT | p=uses | o=the complex variable central slice theorem | conf=0.9
+Lecture 17,Slide20,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"But once you know mu-like if you assume the patient's body is mostly water, making mu equal to the value for water, or if you measure mu with a dedicated transmission scan-you can normalize your measurements, and you end up with a clean line integral."
+Lecture 17,Slide21,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=CT | p=uses | o=tube voltages up to about 140 kVp | conf=1.0
+Lecture 17,Slide22,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=PET without attenuation correction | p=produces | o=enhanced skin uptake | conf=0.9
+Lecture 17,Slide22,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,radioisotope sensitivity
+Lecture 17,Slide22,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=PET: with attenuation correction | p=reconstructs_with | o=filtered back projection | conf=0.8
+Lecture 17,Slide25,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=maximum likelihood iterative reconstruction | p=produces | o=minimized artifacts | conf=1.0
+Lecture 17,Slide25,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=ML Iterative Recon (34 iterations) | p=produces | o=images with reduced noise and minimized artifacts | conf=0.9
+Lecture 17,Slide26,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,individualized correction
+Lecture 17,Slide3,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,parents giving money to a daughter
+Lecture 17,Slide3,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,parent supply
+Lecture 17,Slide31,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,reaches the market
+Lecture 17,Slide32,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"several blocks combined form a ""bucket"""
+Lecture 17,Slide33,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Have an emission wavelength near 400 nm; this wavelength represents the point of maximum sensitivity for standard PMTs
+Lecture 17,Slide33,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=large effective atomic number | p=uses | o=high γ-ray detection efficiency via photoelectric interactions | conf=0.95
+Lecture 17,Slide35,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=photomultiplier tubes | p=converts | o=visible light to electrical signal | conf=1.0
+Lecture 17,Slide35,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Photomultiplier Tubes | p=measures | o=Incident 511kev Photons | conf=0.8
+Lecture 17,Slide36,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=BGO | p=represents | o=ECAT II 1977 | conf=0.9
+Lecture 17,Slide37,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,scatter and random events become more frequent
+Lecture 17,Slide37,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Random Events | p=represents | o=Coincidence of Two Photons from Different Events | conf=0.95
+Lecture 17,Slide38,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Tri-windows for Scatter Correction | p=measures | o=scattered background | conf=0.9
+Lecture 17,Slide38,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=C_Scatter_corr. | p=produces | o=C_Main - (C_Low + C_High) / (W_Low + W_High) * W_Main | conf=0.9
+Lecture 17,Slide4,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,finding mistakes
+Lecture 17,Slide41,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=correction factor | p=reconstructs_with | o=true coincidences | conf=0.9
+Lecture 17,Slide43,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Scatter & Random Correction | p=uses | o=quantitative PET imaging | conf=0.9
+Lecture 17,Slide44,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=PET | p=has | o=higher sensitivity than SPECT | conf=1.0
+Lecture 17,Slide46,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"This might require using new, out-of-the-box ideas-possibly even involving MRI technology-instead of conventional techniques"
+Lecture 17,Slide48,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=SPECT & PET | p=reconstructs_with | o=deterministic reconstruction | conf=1.0
+Lecture 17,Slide48,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Conference & Community
+Lecture 17,Slide48,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=SPECT & PET | p=uses | o=Reconstruction Methods | conf=0.9
+Lecture 17,Slide5,llava-hf__llava-onevision-qwen2-7b-ov-hf,triple_entity_not_in_text,s=single photon emission computed tomography (SPECT) | p=uses|via|represents|depends_on|measures|produces|reconstructs_with | o=single photons | conf=0.0
+Lecture 17,Slide5,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Data Modeling | p=represents | o=Single Emission | conf=1.0
+Lecture 17,Slide5,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Conference & Community
+Lecture 17,Slide53,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,fully3d'17
+Lecture 17,Slide55,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=statistical noise | p=reduces | o=doubling mass of tracer injected | conf=1.0
+Lecture 17,Slide6,llava-hf__llava-onevision-qwen2-7b-ov-hf,triple_entity_not_in_text,"s=Poisson distribution | p=represents | o=random variables that give you counts-like one, two, three, and so on-with different probabilities for each count | conf=1.0"
+Lecture 17,Slide6,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Gaussian & Poisson Noise | p=uses | o=mean and variance | conf=0.8
+Lecture 17,Slide8,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,probability of purchasing a defective computer
+Lecture 18,Slide13,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=1 Tesla | p=equals | o=ten thousand Gauss | conf=1.0
+Lecture 18,Slide15,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,relied on induced currents in coils to detect the returning signals
+Lecture 18,Slide20,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=in the absence of an external, imposed magnetic field | p=the orientations of the magnetic moments are random | o=in the absence of an external, imposed magnetic field | conf=0.95"
+Lecture 18,Slide22,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,proton's magnetic moment
+Lecture 18,Slide22,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=the z-component of the magnetic moment, miu z | p=equals | o=plus or minus gamma times Planck's constant divided by four pi | conf=0.95"
+Lecture 18,Slide24,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"The difference between these two levels is what we call delta E, and it is given by: Delta E equals gamma times h times B naught, divided by two pi."
+Lecture 18,Slide24,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=E = ±γhB0/4π | p=represents | o=the two possible interaction energies | conf=0.95
+Lecture 18,Slide25,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=The magnitude of the MRI signal | p=measures | o=the difference in populations between the two energy levels | conf=0.95
+Lecture 18,Slide27,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,spin angular momentum
+Lecture 18,Slide3,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,SNR
+Lecture 18,Slide3,OpenGVLab__InternVL3-14B,concept_term_not_in_text,spin echo
+Lecture 18,Slide3,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Inversion Recovery & Spin Echo
+Lecture 18,Slide3,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Physical Foundation | p=depends_on | o=Magnetization (Classic Model) | conf=0.8
+Lecture 18,Slide32,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=net magnetization | p=uses | o=magnetic moments of protons | conf=0.95
+Lecture 18,Slide33,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=M0 | p=uses | o=the difference between N_parallel and N_antiparallel | conf=0.9
+Lecture 18,Slide34,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Spin Echo
+Lecture 18,Slide35,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=M0 | p=depends_on | o=precession | conf=0.9
+Lecture 18,Slide37,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=perturbed nuclei | p=generate | o=the same RF signal | conf=1.0
+Lecture 18,Slide37,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Detected externally
+Lecture 18,Slide37,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Perturbed Nuclei | p=produces | o=the Same RF Signal | conf=0.9
+Lecture 18,Slide39,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"In this rotating frame, the spiral disappears. The magnetization no longer seems to precess-it simply tilts, or ""flips,"" into the transverse plane."
+Lecture 18,Slide4,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=PET/MRI systems | p=uses | o=PET and MRI | conf=1.0
+Lecture 18,Slide4,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=spectrum | p=produces | o=functional information | conf=0.9
+Lecture 18,Slide41,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=B(t) | p=represents | o=magnetic field | conf=0.98
+Lecture 18,Slide42,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=M | p=produces | o=oscillation | conf=1.0
+Lecture 18,Slide42,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,rf coil
+Lecture 18,Slide42,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=M not parallel to B | p=uses | o=oscillation of M_xy | conf=0.95
+Lecture 18,Slide43,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=signal strength | p=depends_on | o=size of M_xy | conf=1.0
+Lecture 18,Slide43,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=M_xy | p=depends_on | o=flip angle α | conf=0.95
+Lecture 18,Slide44,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,Reconstruction
+Lecture 18,Slide46,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=T2* relaxation | p=represents | o=disturbance in the magnetic field (Susceptibility) | conf=1.0
+Lecture 18,Slide46,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,T2 - Tissue/Cerebrospinal Fluid Flow (CSF)
+Lecture 18,Slide46,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=T2* relaxation | p=represents | o=Disturbance in the Magnetic Field (Susceptibility) | conf=0.95
+Lecture 18,Slide48,OpenGVLab__InternVL3-14B,concept_term_not_in_text,exponential decay
+Lecture 18,Slide49,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=M_z | p=uses | o=exponential curve | conf=0.9
+Lecture 18,Slide5,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Bloch (Stanford) and Purcell (Harvard) | p=received | o=1952 Nobel Prize in Physics | conf=1.0
+Lecture 18,Slide5,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,Early 1980's: Commercial MRI System
+Lecture 18,Slide5,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Nuclear Magnetic Resonance (NMR) | p=uses | o=gradient magnetic fields | conf=0.85
+Lecture 18,Slide50,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=Muscle | p=measures | o=870 ms for T1 and 45 ms for T2 | conf=1.0
+Lecture 18,Slide50,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Fat | p=measures | o=T1 (ms) | conf=0.98
+Lecture 18,Slide51,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,sum of rates
+Lecture 18,Slide52,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,M0
+Lecture 18,Slide52,OpenGVLab__InternVL3-14B,concept_term_not_in_text,mathematical expression
+Lecture 18,Slide52,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=inversion recovery method | p=uses | o=90° pulse | conf=1.0
+Lecture 18,Slide52,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=inversion recovery sequence | p=uses | o=90° pulse | conf=0.95
+Lecture 18,Slide53,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,repeating process
+Lecture 18,Slide53,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,T1 measurement
+Lecture 18,Slide54,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,T2 measurement
+Lecture 18,Slide55,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,homogeneous
+Lecture 18,Slide55,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,magnetization relaxes from the xy plane back to the z axis
+Lecture 18,Slide6,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=gradient coils | p=produces | o=tomographic imaging | conf=0.9
+Lecture 18,Slide9,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=cross product | p=measures | o=magnitude equal to the length of a times the length of b times the sine of the angle between them | conf=1.0
+Lecture 19,Slide1,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,"SNR, resolution, artifacts, MTF, DQE"
+Lecture 19,Slide11,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,T2 measurement
+Lecture 19,Slide11,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,T2 star includes both biological effects and external field inhomogeneities
+Lecture 19,Slide14,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,encoding
+Lecture 19,Slide14,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=TR | p=depends_on | o=full recovery of the longitudinal magnetization vector M-naught | conf=0.9
+Lecture 19,Slide17,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,linear momentum
+Lecture 19,Slide21,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=slice selection | p=uses | o=gradient along the y-axis | conf=0.95
+Lecture 19,Slide22,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=rephasing gradient | p=produces | o=complete refocusing | conf=0.9
+Lecture 19,Slide23,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,detail images
+Lecture 19,Slide23,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,MRI Scanners
+Lecture 19,Slide27,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,faster oscillations in the measured signal correspond to spins located toward the right-hand side of the image
+Lecture 19,Slide28,llava-hf__llava-onevision-qwen2-7b-ov-hf,triple_entity_not_in_text,s=frequency encoding gradient | p=uses|via|represents|depends_on|measures|produces|reconstructs_with | o=x-direction | conf=0.0
+Lecture 19,Slide3,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,MRI scanners
+Lecture 19,Slide3,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=T1 & T2 | p=produces | o=multi-contrast MRI images | conf=0.8
+Lecture 19,Slide30,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=k y | p=represents | o=phase-encoding direction | conf=0.95
+Lecture 19,Slide31,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,horizontal lines
+Lecture 19,Slide32,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,frequency encoding along horizontal direction
+Lecture 19,Slide33,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,slope determined by gradient ratio
+Lecture 19,Slide36,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=free induction decay (FID) | p=represents | o=the actual NMR signal | conf=0.95
+Lecture 19,Slide38,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,s(t) = M0 (1 - e^(-t/T1)) e^(-t/T2)
+Lecture 19,Slide38,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,s(t) = Sx(t) + iSy(t) = M0 e^(-t/T2) e^(-iω0t)
+Lecture 19,Slide38,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=s(t) | p=represents | o=M0 e^{-t/T2} e^{-iω0t} | conf=0.95
+Lecture 19,Slide40,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,T2(s)
+Lecture 19,Slide41,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,preparation for data collection in k-space
+Lecture 19,Slide42,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,image reconstruction
+Lecture 19,Slide42,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=f(x,y) | p=represents | o=true tissue properties in space | conf=0.95"
+Lecture 19,Slide43,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,image reconstruction
+Lecture 19,Slide43,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,image reconstruction
+Lecture 19,Slide43,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"measured signal s of t is then the Fourier transform of the object's spin density, f of x, y, z, evaluated along this k-space trajectory"
+Lecture 19,Slide43,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=k(t) | p=represents | o=trajectory through Fourier space | conf=0.9
+Lecture 19,Slide45,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,"modulus of F(k_x, k_y)"
+Lecture 19,Slide45,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=Inverse FT of F(k_x, k_y) | p=produces | o=cross-sectional image of the brain | conf=0.95"
+Lecture 19,Slide48,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,aligned with the center of the magnet
+Lecture 19,Slide49,Qwen__Qwen2-VL-7B-Instruct,concept_term_not_in_text,spine imaging
+Lecture 19,Slide49,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,1.5 Tesla
+Lecture 19,Slide49,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Sparkler 1.5T MRI | p=represents | o=industry standard for many diagnostic applications | conf=0.9
+Lecture 19,Slide51,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,"s=Bruker BioSpec Avance III 94/20 9.4T Preclinical MRI Scanner | p=measures | o=anatomical structures, functional activity, and even molecular processes | conf=0.9"
+Lecture 19,Slide53,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,split magnet
+Lecture 19,Slide53,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,ct's accuracy for dose calculation
+Lecture 19,Slide53,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=Ring design for mechanical stability and magnet shielding | p=represents | o=mechanical stability and magnet shielding | conf=0.95
+Lecture 19,Slide6,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,that gives: y equals A e to the k t
+Lecture 19,Slide7,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,biological spin-spin interaction
+Lecture 19,Slide7,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=T2+ | p=represents | o=external field inhomogeneity | conf=0.95
+Lecture 19,Slide9,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=inversion recovery | p=uses | o=a 180° pulse | conf=0.95
+Lecture 2,Slide10,Qwen__Qwen3-VL-4B-Instruct,triple_entity_not_in_text,s=clear all | p=depends_on | o=workspace vars | conf=0.9
+Lecture 2,Slide11,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,s=... | p=continues | o=statement on next line | conf=1.0
+Lecture 2,Slide11,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,sum(x)
+Lecture 2,Slide12,llava-hf__llava-onevision-qwen2-7b-ov-hf,concept_term_not_in_text,MATLAB
+Lecture 2,Slide12,OpenGVLab__InternVL3-14B,triple_entity_not_in_text,"s=v([3,5]) | p=represents | o=entries 3 & 5 | conf=1.0"
+Lecture 2,Slide12,Qwen__Qwen3-VL-4B-Instruct,concept_term_not_in_text,A = [1 2 3; 4 5 6];

@@ -1,0 +1,21 @@
+﻿lecture,slide_id,rank_bucket,proxy_value,triples_total,ocr_evidenced_triples_total,human_image_dominant,proxy_correct,main_reason,notes
+Lecture 14,Slide36,top10,1,2,2,1,1,,
+Lecture 18,Slide37,top10,1,2,2,0,0,paraphrase,
+Lecture 2,Slide12,top10,1,2,2,0,0,paraphrase,
+Lecture 20,Slide15,top10,1,2,2,0,0,other,text dominant
+Lecture 20,Slide3,top10,1,2,2,0,0,normalization,
+Lecture 23,Slide29,top10,1,2,2,1,1,,
+Lecture 13,Slide10,top10,1,1,1,1,1,,
+Lecture 13,Slide16,top10,1,1,1,0,0,normalization,
+Lecture 16,Slide40,top10,1,1,1,1,1,,
+Lecture 2,Slide38,top10,1,1,1,0,0,other,text dominant
+Lecture 7,Slide7,bottom10,0,1,0,0,1,,
+Lecture 7,Slide8,bottom10,0,1,0,0,1,,
+Lecture 7,Slide9,bottom10,0,1,0,0,1,,
+Lecture 8,Slide1,bottom10,0,1,0,0,1,,
+Lecture 8,Slide18,bottom10,0,1,0,0,1,,
+Lecture 8,Slide20,bottom10,0,1,0,0,1,,
+Lecture 8,Slide26,bottom10,0,1,0,1,0,true_image,
+Lecture 8,Slide33,bottom10,0,1,0,1,0,true_image,
+Lecture 9,Slide2,bottom10,0,1,0,1,0,true_image,
+Lecture 9,Slide21,bottom10,0,1,0,1,0,true_image,

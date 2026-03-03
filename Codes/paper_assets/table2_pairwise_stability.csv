@@ -1,0 +1,7 @@
+model_a,model_b,concept_mean_jaccard,triple_mean_jaccard,n_slides
+InternVL3-14B,Qwen2-VL-7B,0.140818,0.22557,1112
+Qwen3-VL-4B,InternVL3-14B,0.068838,0.171373,1112
+Qwen3-VL-4B,Qwen2-VL-7B,0.069622,0.398231,1112
+Qwen3-VL-4B,LLaVA-OneVision,0.056211,0.352968,1112
+LLaVA-OneVision,InternVL3-14B,0.142739,0.206685,1112
+LLaVA-OneVision,Qwen2-VL-7B,0.148404,0.677158,1112
