@@ -1,0 +1,6 @@
+﻿numpy>=1.23
+pandas>=1.5
+matplotlib>=3.6
+tqdm>=4.66
+Pillow>=9.5
+pytesseract>=0.3.10
